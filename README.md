@@ -2,7 +2,8 @@
 
 A beautiful, fully-featured checkers game built with React, TypeScript, and Tailwind CSS. Play against a friend or challenge the computer AI!
 
-![Checkers Game](https://images.pexels.com/photos/2923034/pexels-photo-2923034.jpeg?auto=compress&cs=tinysrgb&w=800)
+<img width="1376" height="774" alt="image" src="https://github.com/user-attachments/assets/473e00c6-7932-48ac-b626-93f5387d2a6b" />
+
 
 ## Features
 
